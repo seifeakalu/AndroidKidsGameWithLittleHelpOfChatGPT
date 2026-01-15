@@ -1,17 +1,41 @@
-## Maths Game for kids
+# Kids Math Game 🎮
 
-With a little help with ChatGPT, this game is designed for kids it will let you answer random Math questions based on given time. If counter down timer ends,new  questions will be generated.
-`SQLite DB`  for storing best score.
+A fun **math game for kids** made in Android Studio.  
+Levels include addition, subtraction, multiplication, division, and mixed 3-number operations.  
+Features include timers, shake animations, error sound, and persistent best score.
 
-## Check the Game video/image/online 
+---
 
-<a href="https://drive.google.com/file/d/13ggSTfV4T9Q-mcXZHv1DW2AldCzhh8OY/view?usp=drive_link">Screen Record</a><br>
-<a href="https://appetize.io/app/35dn0dp9jc71tux61e1nkewqdw">Play Online</a>
+## 🎬 Screenshots
 
-### Image of the game
-<p float="left">
-<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/image_and_apk/level1.PNG" width="250" height="450" />
-<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/blob/master/image_and_apk/level3.PNG" width="250" height="450" />
-<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/blob/master/image_and_apk/level4.PNG" width="250" height="450" />
-<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/blob/master/image_and_apk/level6.PNG" width="250" height="450" />
-</p>
+### Level 1 – Addition
+![Level 1](image_and_apk/level1.png)
+
+### Level 2 – Subtraction
+![Level 2](image_and_apk/level2.png)
+
+### Level 3 – Multiplication
+![Level 3](images/level3.png)
+
+### Level 4 – Division
+![Level 4](images/level4.png)
+
+---
+
+## ⚡ Features
+
+- Addition, subtraction, multiplication, division
+- Decimal/floating-point answers for all levels
+- Shake animation & error sound for wrong answers
+- Countdown timer for each question
+- Best score stored in SQLite DB
+- Styled buttons, EditText, and background image
+
+---
+
+## 🛠 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/username/AndroidKidsGameWithLittleHelpOfChatGPT.git
