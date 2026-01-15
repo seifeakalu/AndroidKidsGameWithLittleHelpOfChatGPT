@@ -8,19 +8,13 @@ Features include timers, shake animations, error sound, and persistent best scor
 
 ## 🎬 Screenshots
 
-## 🎬 Screenshots
+<p align="center">
+  <img src="images/level1.png" alt="Level 1" width="150" height="280"/>
+  <img src="images/level2.png" alt="Level 2" width="150" height="280"/>
+  <img src="images/level3.png" alt="Level 3" width="150" height="280"/>
+  <img src="images/level4.png" alt="Level 4" width="150" height="280"/>
+</p>
 
-### Level 1 – Addition
-<img src="images/level1.png" alt="Level 1 Screenshot" width="200" height="150">
-
-### Level 2 – Subtraction
-<img src="images/level2.png" alt="Level 2 Screenshot" width="200" height="150">
-
-### Level 3 – Multiplication
-<img src="images/level3.png" alt="Level 3 Screenshot" width="200" height="150">
-
-### Level 4 – Division
-<img src="images/level4.png" alt="Level 4 Screenshot" width="200" height="150">
 
 
 
