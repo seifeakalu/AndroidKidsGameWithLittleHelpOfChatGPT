@@ -12,13 +12,13 @@ Features include timers, shake animations, error sound, and persistent best scor
 ![Level 1](image_and_apk/level1.png)
 
 ### Level 2 – Subtraction
-![Level 2](image_and_apk/level2.png)
+![Level 2](image_and_apk/level3.PNG)
 
 ### Level 3 – Multiplication
-![Level 3](images/level3.png)
+![Level 3](images/level4.png)
 
 ### Level 4 – Division
-![Level 4](images/level4.png)
+![Level 4](images/level6.png)
 
 ---
 
