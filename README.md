@@ -10,9 +10,9 @@ Features include timers, shake animations, error sound, and persistent best scor
 
 <p align="center">
   <img src="images/level1.png" alt="Level 1" width="250" height="450"/>
-  <img src="images/level3.png" alt="Level 3" width="250" height="450"/>
-  <img src="images/level4.png" alt="Level 4" width="250" height="450"/>
-  <img src="images/level6.png" alt="Level 6" width="250" height="450"/>
+  <img src="images/level3.PNG" alt="Level 3" width="250" height="450"/>
+  <img src="images/level4.PNG" alt="Level 4" width="250" height="450"/>
+  <img src="images/level6.PNG" alt="Level 6" width="250" height="450"/>
 </p>
 
 ---
