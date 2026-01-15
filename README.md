@@ -9,10 +9,10 @@ Features include timers, shake animations, error sound, and persistent best scor
 ## 🎬 Screenshots
 
 ### Level 1 – Addition
-![Level 1](image_and_apk/level1.png)
+![Level 1](images/level1.png)
 
 ### Level 2 – Subtraction
-![Level 2](image_and_apk/level3.PNG)
+![Level 2](images/level3.PNG)
 
 ### Level 3 – Multiplication
 ![Level 3](images/level4.png)
