@@ -15,10 +15,10 @@ Features include timers, shake animations, error sound, and persistent best scor
 ![Level 2](images/level3.PNG)
 
 ### Level 3 – Multiplication
-![Level 3](images/level4.png)
+![Level 3](images/level4.PNG)
 
 ### Level 4 – Division
-![Level 4](images/level6.png)
+![Level 4](images/level6.PNG)
 
 ---
 
