@@ -5,6 +5,7 @@ Levels include addition, subtraction, multiplication, division, and mixed 3-numb
 Features include timers, shake animations, error sound, and persistent best score.
 
 ---
+<a href="https://appetize.io/app/b_xfeq4so2kyklg7m3dsul5xpppm">Play Online</a>
 
 ## 🎬 Screenshots
 
