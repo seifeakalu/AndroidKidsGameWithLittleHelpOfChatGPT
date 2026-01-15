@@ -1,7 +1,6 @@
 ## Ordering Game (Speedy Order)
 
-This game will let you order random objects based on given time. If counter down timer ends, or incorrect target order, your life will be deducted by one. 
-
+With a little help with ChatGPT, This game is designed for kids it will let you answer random Math questions based on given time. If counter down timer ends,new  questions will be generated.
 `SQLite DB`  for storing best score.
 `PhotoShop` for Graphic design
 
@@ -12,7 +11,12 @@ This game will let you order random objects based on given time. If counter down
 
 ### Image of the game
 <p float="left">
-<img src="https://github.com/seifeakalu/Ordering_Game/blob/master/APK%20and%20Screen_Shots/Screen_shot1.jpg" width="250" height="450" />
-<img src="https://github.com/seifeakalu/Ordering_Game/blob/master/APK%20and%20Screen_Shots/Screen_shot2.jpg" width="250" height="450" />
-<img src="https://github.com/seifeakalu/Ordering_Game/blob/master/APK%20and%20Screen_Shots/Screen_shot3.jpg" width="250" height="450" />
+<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT
+/images/level1.png" width="250" height="450" />
+<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT
+/images/level3.png" width="250" height="450" />
+<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT
+/images/level4.png" width="250" height="450" />
+  <img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT
+/images/level6.png" width="250" height="450" />
 </p>
