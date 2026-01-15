@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    android:background="@drawable/bg_math_game">
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kids Game"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="#3F51B5"
+        android:background="@drawable/title_bg"
+        android:layout_marginBottom="24dp" />
+
+
+    <TextView
+        android:id="@+id/tvLevel"
+        android:text="Level: 1"
+        android:textSize="24sp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvQuestion"
+        android:text="Question"
+        android:textSize="28sp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etAnswer"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:hint="Your Answer"
+        android:inputType="numberDecimal|numberSigned"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:textColorHint="#888888"
+        android:gravity="center"
+        android:background="@drawable/et_game"
+        android:padding="12dp"
+        android:layout_marginTop="12dp"/>
+
+
+
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"
+        android:background="@drawable/btn_submit"
+        android:layout_marginTop="16dp" />
+
+
+    <TextView
+        android:id="@+id/tvTimer"
+        android:text="Time: 10"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvScore"
+        android:text="Score: 0"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/tvBestScore"
+        android:text="Best Score: 0"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/tvDeveloper"
+        android:text="Developed By Seife Akalu : 0913816043"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
