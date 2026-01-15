@@ -1,8 +1,7 @@
-## Ordering Game (Speedy Order)
+## Maths Game for kids
 
-With a little help with ChatGPT, This game is designed for kids it will let you answer random Math questions based on given time. If counter down timer ends,new  questions will be generated.
+With a little help with ChatGPT, this game is designed for kids it will let you answer random Math questions based on given time. If counter down timer ends,new  questions will be generated.
 `SQLite DB`  for storing best score.
-`PhotoShop` for Graphic design
 
 ## Check the Game video/image/online 
 
