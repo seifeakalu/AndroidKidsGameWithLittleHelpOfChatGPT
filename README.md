@@ -11,8 +11,8 @@ With a little help with ChatGPT, This game is designed for kids it will let you 
 
 ### Image of the game
 <p float="left">
-<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/blob/master/image/level1.png" width="250" height="450" />
-<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/blob/master/image/level3.PNG" width="250" height="450" />
+<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/blob/master/image_and_apk/level1.PNG" width="250" height="450" />
+<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/blob/master/image_and_apk/level3.png" width="250" height="450" />
 <img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/blob/master/image/level4.PNG" width="250" height="450" />
 <img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/blob/master/image/level6.PNG" width="250" height="450" />
 </p>
