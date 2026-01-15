@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText etAnswer;
     private Button btnSubmit;
     private int score = 0;
+    private int bestScore = 0;
     private int level = 1;
     private int num1, num2, num3;
     private double correctAnswer;
@@ -40,6 +41,9 @@ public class MainActivity extends AppCompatActivity {
         clapSound = MediaPlayer.create(this, R.raw.clap_sound);
         dbHelper = new DBHelper(this);
         tvBestScore = findViewById(R.id.tvBestScore);
+
+        bestScore = dbHelper.getBestScore();
+        tvBestScore.setText("Best Score: " + bestScore);
 
 // Display current best score
         tvBestScore.setText("Best Score: " + dbHelper.getBestScore());
@@ -170,6 +174,14 @@ public class MainActivity extends AppCompatActivity {
             if (clapSound != null) clapSound.start();
             score+=10;
             tvScore.setText("Score: " + score);
+            if (score > bestScore) {
+                bestScore = score;
+                tvBestScore.setText("Best Score: " + bestScore);
+                dbHelper.updateBestScore(score);
+                bestScore = dbHelper.getBestScore();
+                tvBestScore.setText("Best Score: " + bestScore);
+
+            }
 
             level++;
             tvLevel.setText("Level: " + level);
