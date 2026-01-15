@@ -9,17 +9,17 @@ Features include timers, shake animations, error sound, and persistent best scor
 ## 🎬 Screenshots
 
 ### Level 1 – Addition
-![Level 1]<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/blob/master/images/level1.png" width="250" height="450" />
+![Level 1]<img src="https://github.com/seifeakalu/AndroidKidsGameWithLittleHelpOfChatGPT/blob/master/images/level1.PNG" width="250" height="450" />
 
-
-### Level 2 – Subtraction
-![Level 2](images/level3.PNG)
 
 ### Level 3 – Multiplication
-![Level 3](images/level4.PNG)
+![Level 3](images/level3.PNG)
 
 ### Level 4 – Division
-![Level 4](images/level6.PNG)
+![Level 4](images/level4.PNG)
+
+### Level 6 – Three Digit Number
+![Level 6](images/level6.PNG)
 
 ---
 
