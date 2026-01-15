@@ -9,7 +9,8 @@ Features include timers, shake animations, error sound, and persistent best scor
 ## 🎬 Screenshots
 
 ### Level 1 – Addition
-![Level 1](images/level1.png)
+![Level 1]<img src="https://github.com/seifeakalu/Android_amaharic_Health_tip/blob/master/APK%20file/d.png" width="250" height="450" />
+
 
 ### Level 2 – Subtraction
 ![Level 2](images/level3.PNG)
